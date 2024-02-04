@@ -1,2 +1,2 @@
-# Week1
+# Home Assignments
 HomeAssignmentsWeek1
